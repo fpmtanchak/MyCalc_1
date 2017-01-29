@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyCalc_1</string>
+    <!--Кнопки-->
+    <string name="button_c">C</string>
+    <string name="button3">3</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="editText">0</string>
+    <string name="buttonSqrt">√</string>
+    <string name="buttonPercent">%</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonSub">-</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="buttonMulti">*</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttonDiv">/</string>
+    <string name="button0">0</string>
+    <string name="buttonComa">.</string>
+    <string name="buttonEq">=</string>
+    <string name="buttonOff">Off</string>
+    <string name="buttonSquare">x*x</string>
+    <string name="buttonExponentiation">xy</string>
+    <string name="buttonBack">←</string>
+
+    <string name="limit_before">Обмеження розрядності = 10</string>
+    <string name="limit_after">Обмеження знаків після коми  = 5</string>
+    <string name="degree_overflow">Помилка: переповнення розрядності </string>
+
+    <string name="other_operation">Введена інша операція</string>
+    <!--Меню-->
+    <string name="about_app">Про програму</string>
+    <string name="options">Налаштування</string>
+
+    <string name="text_about">Калькулятор від</string>
+    <string name="vk_link">Bohdan Tanchak</string>
+    <string name="bt_good">Чудово!</string>
+
+    <string name="add_button">Додаткові кнопки</string>
+    <string name="descr_add_button">Пакозати додаткові кнопки</string>
+    <string name="style_app">Стиль програми</string>
+    <string name="descr_style_app">Змінити стиль інтерфейсу</string>
+    <string-array name="style_entries">
+        <item>Стиль 1</item>
+        <item>Стиль 2</item>
+    </string-array>
+    <string-array name="style_entry_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+
+</resources>
